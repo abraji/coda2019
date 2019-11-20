@@ -5,7 +5,9 @@
 
 ## O que é necessário instalar primeiro?
 ### Python!
-     
+
+![Python](/Monty-Python-foot-1024x803.jpg)
+
 *Atenção: existe Python 2 e Python 3, usamos a versão 3 mais recente*
 *Mas no Windows 10 descobri que a versão 3.7.5 é mais estável com selenium e instala as bibliotecas sem erro, recomendo este no Windows*
 
