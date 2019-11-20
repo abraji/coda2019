@@ -62,7 +62,7 @@ Material sobre o uso do [Postman](https://about:blank) para entender o tráfego 
 Aprenda mais com [curso da Abraji](https://about:blank)
 
 
-### No time Tolouse!
+### No time Toulouse!
     Você já pode começar a estudar os códigos!
     No cmd ou terminal vá onde está o arquivo requirements.txt e digiter: jupyter lab
     Será aberto o Jupyter Lab, ambiente para você ver e executar scripts
