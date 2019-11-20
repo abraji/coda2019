@@ -1,7 +1,6 @@
 # Coda2019
 ## Repositório do curso "Como revelar o que está escondido à vista de todos"
 
-*Informação de instalação*
 
 ## O que é necessário instalar primeiro?
 ### Python!
