@@ -8,7 +8,7 @@
 
 ![Python](/Monty-Python-foot.jpg)
 
-*Atenção: existe Python 2 e Python 3, usamos a versão 3 mais recente*
+*Atenção: existe Python 2 e Python 3, usamos a versão 3 mais recente*<br>
 *Mas no Windows 10 descobri que a versão 3.7.5 é mais estável com selenium e instala as bibliotecas sem erro, recomendo este no Windows*
 
 [Link de Instalação do Python3](https://www.python.org/downloads/)
