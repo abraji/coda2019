@@ -48,4 +48,11 @@ Você pode baixar [aqui](https://chromedriver.chromium.org/downloads)
     No Linux basta digitar no Terminal para saber: whereis google-chrome
 
 ### Materiais de apoio
-    Você também 
+    Você também está recebendo na camaradagem:
+A [apresentação](https://about:blank) da aula
+Um [guia jurídico rápido](https://about:blank)
+Material sobre [boas práticas de raspagem de dados](https://about:blank)
+Material sobre o uso do [Postman](https://about:blank) para entender o tráfego de um site
+Aprenda mais com [curso da Abraji](https://about:blank)
+
+
