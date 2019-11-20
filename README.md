@@ -41,11 +41,13 @@ Também
     Anote o local que salvou este arquivo - você vai usar isso nos programas com selenium
 Você pode baixar [aqui](https://chromedriver.chromium.org/downloads) 
 
+
 ### Local de instalação do Chrome
     Você também vai precisar saber onde está instalado seu navegador Chrome em sua máquina
     No Windows devem estar em (C:\Program Files (x86)\Google\Chrome\Application\) ou (C:\Users\UserName\AppData\Local\Google\Chrome\Application)
     No Mac deve estar em Users/<username>/Library/Application Support/Google/Chrome/Default
     No Linux basta digitar no Terminal para saber: whereis google-chrome
+
 
 ### Materiais de apoio
     Você também está recebendo na camaradagem:
@@ -56,3 +58,9 @@ Material sobre o uso do [Postman](https://about:blank) para entender o tráfego 
 Aprenda mais com [curso da Abraji](https://about:blank)
 
 
+### No time Tolouse!
+    Você já pode começar a estudar os códigos!
+    No cmd ou terminal vá onde está o arquivo requirements.txt e digiter: jupyter lab
+    Será aberto o Jupyter Lab, ambiente para você ver e executar scripts
+    Abra ou crie os arquivos que desejar e namastê!
+![Python](/Monty-Python-foot.jpg)    
