@@ -41,4 +41,5 @@ Você pode baixar [aqui](https://chromedriver.chromium.org/downloads)
     No Mac deve estar em Users/<username>/Library/Application Support/Google/Chrome/Default
     No Linux basta digitar no Terminal para saber: whereis google-chrome
 
-
+### Materiais de apoio
+    Você também 
