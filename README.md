@@ -16,9 +16,16 @@
 ##### Lembre do PATH
 
      Ao instalar o Python sempre lembre de marcar a opção PATH: algo como, "Add Python 3 to PATH"
+     
+##### Repositório da aula
 
+     O mais indicado depois a fazer é clicar no botão "Clone or download" e fazer o "Download ZIP" de todo material da aula
+     Você pode descompactar o zip em uma pasta de sua preferência
+     Abra o cmd ou terminal e entre nesta pasta, onde está o arquivo requirements.txt
+     
 ### Demais bibliotecas a serem utilizadas:
   
+    No cmd ou terminal digite
     pip install -r requirements.txt
 
 Também
