@@ -28,9 +28,17 @@ Também
     Para instalar no Fedora sudo yum install python3-pip
 
 
-### Jupyter Notebooks
-    Uma opção muito utilizada são os notebooks Jupyter, acrescente o comando abaixo na linha de comando (cmd do Windows) ou terminal (Mac e Linux)
-    jupyter notebook
-    Algumas instalações com Windows podem ter problemas de DLL (tente mudar o navegador padrão)
+### Chromedriver
+    O Chromedriver é o driver que vai permitir o selenium controlar o navegador Google Chrome
+    Você baixar [aqui](https://chromedriver.chromium.org/downloads)
+    Baixe a versão correspondente ao seu sistema operacional e a sua versão do Chrome
+    Depois descompacte o arquivo chromedriver e salve numa pasta de sua escolha
+    Anote o local que salvou este arquivo - você vai usar isso nos programas com selenium
 
-### Baixar também:
+### Local de instalação do Chrome
+    Você também vai precisar saber onde está instalado seu navegador Chrome em sua máquina
+    No Windows devem estar em (C:\Program Files (x86)\Google\Chrome\Application\) ou (C:\Users\UserName\AppData\Local\Google\Chrome\Application)
+    No Mac deve estar em Users/<username>/Library/Application Support/Google/Chrome/Default
+    No Linux basta digitar no Terminal para saber: whereis google-chrome
+
+
