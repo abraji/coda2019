@@ -63,4 +63,4 @@ Aprenda mais com [curso da Abraji](https://about:blank)
     No cmd ou terminal vá onde está o arquivo requirements.txt e digiter: jupyter lab
     Será aberto o Jupyter Lab, ambiente para você ver e executar scripts
     Abra ou crie os arquivos que desejar e namastê!
-![Python](/Monty-Python-foot.jpg)    
+![Python](/D2HXHPZXQAAvXcI.jpg)    
