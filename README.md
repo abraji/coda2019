@@ -70,6 +70,7 @@ Aprenda mais com [curso da Abraji](https://about:blank)
 
 ### Avisos importantes
     Situação em novembro de 2019: o raspador do STJ ainda está em melhorias, os dados precisam ser bem checados antes de publicar (como tudo no jornalismo...)
+    
     Situação em novembro de 2019: e o raspador do TJ-SP parou de funcionar porque o tribunal colocou um Recaptcha V3 - fica mais para didatismo esse exemplo
 
 ### No time Toulouse!
