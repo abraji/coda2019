@@ -73,6 +73,9 @@ Aprenda mais com [curso da Abraji](https://about:blank)
     
     Situação em novembro de 2019: e o raspador do TJ-SP parou de funcionar porque o tribunal colocou um Recaptcha V3 - fica mais para didatismo esse exemplo
 
+Mas antes disso a Abraji conseguiu atualizar a base do Ctrl+x para o TJ-SP. [Veja mais](https://abraji.org.br/ctrl-x-atualiza-processos-de-retirada-de-conteudo-apresentados-no-tj-sp)
+
+
 ### No time Toulouse!
     Você já pode começar a estudar os códigos!
     No cmd ou terminal vá onde está o arquivo requirements.txt e digiter: jupyter lab
