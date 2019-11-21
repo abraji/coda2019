@@ -45,6 +45,13 @@ Também
     Anote o local que salvou este arquivo - você vai usar isso nos programas com selenium
 Você pode baixar [aqui](https://chromedriver.chromium.org/downloads) 
 
+### Geckodriver
+    O geckodriver é o driver que vai permitir o selenium controlar o navegador Mozilla
+    Baixe a versão correspondente ao seu sistema operacional e a sua versão do Mozilla
+    Depois descompacte o arquivo geckodriver.exe e salve numa pasta de sua escolha
+    Anote o local que salvou este arquivo - você vai usar isso nos programas com selenium
+    O selenium funciona melhor em algumas ocasiões com o geckodriver
+Você pode baixar [aqui](https://github.com/mozilla/geckodriver/releases) 
 
 ### Local de instalação do Chrome
     Você também vai precisar saber onde está instalado seu navegador Chrome em sua máquina
