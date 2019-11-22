@@ -31,9 +31,9 @@ Vamos mostrar as limitações e possibilidades para automatizar pesquisas em tri
     No cmd ou terminal digite
     pip3 install -U -r requirements.txt
 
-Também
+Também lembre
 
-    Lembre que, se você usar MacOS e Linux, terá ao mesmo tempo Python2 e Python3. Então deverá instalar o pip3 e rodar o comando acima com pip3 install etc, etc.
+    Lembre que, se você usar MacOS e Linux, terá ao mesmo tempo Python2 e Python3. Então deverá instalar com o pip3
     Para instalar o pip3 no Ubuntu ou Debian Linux sudo apt-get install python3-pip
     Para instalar no Fedora sudo yum install python3-pip
 
