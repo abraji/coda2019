@@ -29,7 +29,7 @@ Vamos mostrar as limitações e possibilidades para automatizar pesquisas em tri
 ### Demais bibliotecas a serem utilizadas:
   
     No cmd ou terminal digite
-    pip install -r requirements.txt
+    pip3 install -U -r requirements.txt
 
 Também
 
