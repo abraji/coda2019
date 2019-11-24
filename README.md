@@ -62,11 +62,11 @@ Você pode baixar [aqui](https://github.com/mozilla/geckodriver/releases)
 
 ### Materiais de apoio
     Você também está recebendo na camaradagem:
-A [apresentação](https://about:blank) da aula<br>
-Um [guia jurídico rápido](https://about:blank)<br>
-Material sobre [boas práticas de raspagem de dados](https://about:blank)<br>
-Material sobre o uso do [Postman](https://about:blank) para entender o tráfego de um site<br>
-Aprenda mais com [curso da Abraji](https://about:blank)
+A [apresentação](https://docs.google.com/presentation/d/156d254C7lSuXeUoTOoVTw5A9RpX_kf7z5JYRuvYyPSY/edit?usp=sharing) da aula<br>
+Um [guia jurídico rápido](https://docs.google.com/document/d/1vvxweuRXnHH-Rxt82PYL-KSSp0bMt0m9cC7YomjJX5g/edit?usp=sharing)<br>
+Material sobre [boas práticas de raspagem de dados](https://docs.google.com/document/d/1fv6G6Gu0KaJ44RNCCLgZv3M-cIiqF6IwAXhb_WnUKLk/edit?usp=sharing)<br>
+Material sobre o uso do [Postman](https://docs.google.com/document/d/1hgoVMDFLXwqJdtBp2HAewcTFJsoISRvTwfWx2Hf2-P4/edit?usp=sharing) para entender o tráfego de um site<br>
+Aprenda mais com [curso da Abraji](https://github.com/abraji/cursos_congresso_2019)
 
 ### Avisos importantes
     Situação em novembro de 2019: o raspador do STJ ainda está em melhorias, os dados precisam ser bem checados antes de publicar (como tudo no jornalismo...)
@@ -82,3 +82,7 @@ Mas antes disso a Abraji conseguiu atualizar a base do Ctrl+x para o TJ-SP. [Vej
     Será aberto o Jupyter Lab, ambiente para você ver e executar scripts
     Abra ou crie os arquivos que desejar e namastê!
 ![Python](/D2HXHPZXQAAvXcI.jpg)    
+
+### Dúvidas de raspagem
+    Escreva no fórum brasileiro de jornalismo de dados - ambiente para troca de informações da comunidade brasileira
+Acesse [aqui](https://forum.jornalismodedados.org/) 
