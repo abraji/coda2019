@@ -83,6 +83,6 @@ Mas antes disso a Abraji conseguiu atualizar a base do Ctrl+x para o TJ-SP. [Vej
     Abra ou crie os arquivos que desejar e namastê!
 ![Python](/D2HXHPZXQAAvXcI.jpg)    
 
-### Dúvidas de raspagem
+### Dúvidas de raspagem?
     Escreva no fórum brasileiro de jornalismo de dados - ambiente para troca de informações da comunidade brasileira
 Acesse [aqui](https://forum.jornalismodedados.org/) 
