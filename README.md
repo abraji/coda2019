@@ -1,4 +1,4 @@
-# Coda2019
+# [Coda2019](https://coda.escoladedados.org/)
 ## Repositório do curso "Como revelar o que está escondido à vista de todos"
 
 A Associação Brasileira de Jornalismo Investigativo (Abraji) vai lançar no começo de 2020 a fase 2 do [Publique-se](http://publique-se.org.br). O banco de dados para pesquisas de processos judiciais nos quais políticos brasileiros aparecem como partes vai passar a incluir tribunais de todos os Estados brasileiros, incluindo os de primeira instância. Com base nessa experiência, será oferecido um workshop introdutório sobre a raspagem de dados no Judiciário brasileiro, com o uso de Python 3.
