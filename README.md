@@ -5,6 +5,8 @@ A Associação Brasileira de Jornalismo Investigativo (Abraji) vai lançar no co
 
 Vamos mostrar as limitações e possibilidades para automatizar pesquisas em tribunais e a coleta de informações processuais. Iremos também usar bibliotecas e módulos como requests, beautifulsoup, soupsieve e selenium webdriver para acessar a busca processual nos tribunais e a posterior geração de CSV com os resultados estruturados.
 
+Por Juliana Fonteles e Reinaldo Chaves
+
 
 ## O que é necessário instalar primeiro?
 ### Python!
