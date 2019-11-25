@@ -87,5 +87,5 @@ Mas antes disso a Abraji conseguiu atualizar a base do Ctrl+x para o TJ-SP. [Vej
     Escreva no Fórum brasileiro de jornalismo de dados - ambiente para troca de informações da comunidade brasileira
 Acesse [aqui](https://forum.jornalismodedados.org/)<br> 
 
-<br>
-*Fun fact: as imagens são por causa do [Monty Python’s Flying Circus](https://github.com/abraji/cursos_congresso_2019),  inspiração do Guido van Rossum*<br>
+
+*Fun fact: as imagens são por causa do [Monty Python’s Flying Circus](https://docs.python.org/2/faq/general.html#id19),  inspiração do Guido van Rossum*<br>
